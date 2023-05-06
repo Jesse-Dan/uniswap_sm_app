@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "504343416311",
+    "project_id": "unisawap",
+    "storage_bucket": "unisawap.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:504343416311:android:534fd3fbca7390787032f2",
+        "android_client_info": {
+          "package_name": "com.example.uniswap_sm_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "504343416311-9hdahdfod0k9k1tjmp3tbbikh2jh4ge6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5LwGTgecAw2B1qhKFIENNjHvX8A9AZdw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "504343416311-9hdahdfod0k9k1tjmp3tbbikh2jh4ge6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
